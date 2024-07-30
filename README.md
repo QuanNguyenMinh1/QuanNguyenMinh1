@@ -1,7 +1,7 @@
 ## Hi there 👋
 My full name is Nguyen Minh Quan. For short, you can call me "Quan". Sometimes I appear with the nickname "quan329".
 - 🎓 I'm a freshman at HCM University of Technology.
-- 🌱 I’m currently learning Electronics and Telecommunication engineering (PFIEV program).
+- 🌱 I’m currently studying Electronics and Telecommunication engineering (PFIEV program).
 - 😄 I speak English as my second language and I use a little French for searching documents.
 - ⚡ Fun fact: I enjoy most of time in exploring fundamental theory throughout learning electronics.
 
