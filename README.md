@@ -3,7 +3,7 @@ My full name is Nguyen Minh Quan. For short, you can call me "Quan". Sometimes I
 - 🎓 I'm a freshman at HCM University of Technology.
 - 🌱 I’m currently studying Electronics and Telecommunication engineering (PFIEV program).
 - 😄 I speak English as my second language and I use a little French for searching documents.
-- ⚡ Fun fact: I enjoy most of time in exploring fundamental theory throughout learning electronics.
+- ⚡ Fun fact: I enjoy most of time in exploring fundamental theories throughout learning electronics.
 
 <h3 align="left">Languages:</h3>
 <p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
