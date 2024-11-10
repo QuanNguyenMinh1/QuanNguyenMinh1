@@ -4,7 +4,9 @@ My full name is Nguyen Minh Quan. For short, you can call me "Quan". Besides, I 
 - 🌱 I’m currently studying Electronics and Telecommunication engineering (Programme de Formation d'Ingénieurs d'Excellence au Vietnam (PFIEV)).
 - 😄 I speak English as my second language and I use a little French for searching documents.
 - ⚡ Fun fact: I enjoy most of time in exploring fundamental theories throughout learning electronics.
-- I have experience in teaching Basic Electronic Circuits and Embedded C for high school students as a teaching assistant.
+Academic activities:
+- Teaching assistant and instructor in Basic Electronic Circuits and Embedded C for high school students (PIFKID 2023 Summer Camp).
+- Lecturer in C25 Microcontroller Basic Course.
 <h3 align="left">Languages:</h3>
 <p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
