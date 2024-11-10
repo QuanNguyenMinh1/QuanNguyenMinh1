@@ -4,7 +4,7 @@ My full name is Nguyen Minh Quan. For short, you can call me "Quan". Besides, I 
 - 🌱 I’m currently studying Electronics and Telecommunication engineering (Programme de Formation d'Ingénieurs d'Excellence au Vietnam (PFIEV)).
 - 😄 I speak English as my second language and I use a little French for searching documents.
 - ⚡ Fun fact: I enjoy most of time in exploring fundamental theories throughout learning electronics.
-Academic activities:
+<h3 align="left">Academic activities:</h3>
 - Teaching assistant and instructor in Basic Electronic Circuits and Embedded C for high school students (PIFKID 2023 Summer Camp).
 - Lecturer in C25 Microcontroller Basic Course.
 <h3 align="left">Languages:</h3>
