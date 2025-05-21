@@ -6,7 +6,7 @@ My full name is Nguyen Minh Quan. For short, you can call me "Quan". Besides, I 
 - ⚡ Fun fact: I enjoy most of time in exploring fundamental theories throughout learning electronics.
 <h3 align="left">Academic activities:</h3>
 <br>- Lecturer and mentor in C25 Microcontroller Basic Course for undergraduates.</br>
-<br>- Teaching assistant and instructor in Basic Electronic Circuits and Embedded C Course for high school students (PIFKID 2023 Summer Camp).</br>
+<br>- Teaching assistant and instructor in Basic Electronic Circuits and Embedded C Course for high school students (PIFKID 2024 Summer Camp).</br>
 <h3 align="left">Languages:</h3>
 <p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.overleaf.com/project" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/e1d6a117e83df943856202d864cb496127e3b9f260563246e893a45ac73c0ccf/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39322f4c615465585f6c6f676f2e737667" alt="Latex" width="40" height="40"/> </a> </p>
 
