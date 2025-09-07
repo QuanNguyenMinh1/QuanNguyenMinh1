@@ -17,17 +17,26 @@ My full name is Nguyen Minh Quan. For short, you can call me "Quan". Besides, I 
 <p align="left"> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcmU00AWKefsImjv1gCyu7tAsDnyK2czY_Ug&s" alt="stm32cubeide" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/code.png" alt="vsstudio" width="40" height="40"/> </a><a href="https://www.altium.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/altium_designer.png" alt="altiumdesign" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://matlab.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZXsPzy5sU_RcMY0oJwYCNJ3aR8X0N8spuOsV5aywUlTXKg-z5IoKqCe3eM5aBlEbGBbtI5A0rT5scl_1mjRKoItYmRECJjw2JFfVzGgLNSQ" alt="matlab" width="40" height="40"/> </a> <a href="[https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/orcad.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/OrCAD_Logo.svg/800px-OrCAD_Logo.svg.png" alt="orcad" width="40" height="40"/> </a> <a href="https://e-ra.io/index.html" target="_blank" rel="noreferrer"> <img src="https://app.e-ra.io/static/media/era-logo.a29a4f31179a242b4f3d7e587b0f3949.svg" alt="orcad" width="40" height="40"/> </a> <a href="https://www.freertos.org/" target="_blank" rel="noreferrer"> <img src="https://www.freertos.org/media/2023/logo.png" alt="orcad" width="40" height="40"/> </a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/330px-Ubuntu-logo-2022.svg.png" alt="ubuntu" width="40" height="40"/> </a></p>
 
 <h3 align="left">Workplaces:</h3>
-<p align="left">
-  <a href="https://hcmut.edu.vn/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/bku.ico" alt="HCMUT" width="160" height="160"/>
-  </a>
-  <a href="https://payitforward.edu.vn" target="_blank" rel="noreferrer">
-    <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/PIF_Leaf.png" alt="PayItForwardClub" width="160" height="160"/>
-  </a>
-</p>
-<p align="left">
-  <strong>Ho Chi Minh City University of Technology</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Pay It Forward Club</strong>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://hcmut.edu.vn/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/bku.ico" alt="HCMUT" width="160" height="160"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://payitforward.edu.vn" target="_blank" rel="noreferrer">
+        <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/PIF_Leaf.png" alt="PayItForwardClub" width="160" height="160"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Ho Chi Minh City University of Technology</strong>
+    </td>
+    <td align="center">
+      <strong>Pay It Forward Club</strong>
+    </td>
+  </tr>
+</table>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuanNguyenMinh1&show_icons=true&theme=tokyonight)
