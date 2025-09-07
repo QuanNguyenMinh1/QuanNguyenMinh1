@@ -19,4 +19,13 @@ My full name is Nguyen Minh Quan. For short, you can call me "Quan". Besides, I 
 <h3 align="left">Workplaces:</h3>
 <p align="left"> <a href="https://hcmut.edu.vn/" target="_blank" rel="noreferrer"> <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/bku.ico" alt="HCMUT" width="160" height="160"/> </a> <a href="https://payitforward.edu.vn" target="_blank" rel="noreferrer"> <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/PIF_Leaf.png" alt="PayItForwardClub" width="160" height="160"/> </a></p>
 
+<h3 align="left">Workplaces:</h3>
+<p align="left">
+  <a href="https://hcmut.edu.vn/" target="_blank" rel="noreferrer" title="Ho Chi Minh City University of Technology">
+    <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/bku.ico" alt="HCMUT" width="160" height="160"/>
+  </a>
+  <a href="https://payitforward.edu.vn" target="_blank" rel="noreferrer" title="Pay It Forward Club">
+    <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/PIF_Leaf.png" alt="PayItForwardClub" width="160" height="160"/>
+  </a>
+</p>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuanNguyenMinh1&show_icons=true&theme=tokyonight)
