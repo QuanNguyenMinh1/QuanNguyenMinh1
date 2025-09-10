@@ -26,7 +26,7 @@
 ####  Tools
 <p align="left">
   <a href="https://www.qt.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" height="40"/></a>
-  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank"><img src="https://img.icons8.com/color/48/stmicroelectronics.png" width="40" height="40"/></a>
+  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank"><img src="https://www.st.com/bin/ecommerce/api/image.PF267946.en.feature-description-include-personalized-no-cpn-large.jpg" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
   <a href="https://www.altium.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Altium_Designer_Logo.png" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
