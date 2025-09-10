@@ -28,7 +28,7 @@
   <a href="https://www.qt.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" height="40"/></a>
   <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank"><img src="https://img.icons8.com/color/48/stmicroelectronics.png" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-  <a href="https://www.altium.com/" target="_blank"><img src="https://seeklogo.com/images/A/altium-designer-logo-296B56E445-seeklogo.com.png" width="40" height="40"/></a>
+  <a href="https://www.altium.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Altium_Designer_Logo.png" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
   <a href="https://matlab.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
   <a href="https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/orcad.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OrCAD_Logo.svg" width="40" height="40"/></a>
