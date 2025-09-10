@@ -34,7 +34,7 @@
   <a href="https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/orcad.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OrCAD_Logo.svg" width="40" height="40"/></a>
   <a href="https://e-ra.io/" target="_blank"><img src="https://app.e-ra.io/static/media/era-logo.a29a4f31179a242b4f3d7e587b0f3949.svg" width="40" height="40"/></a>
   <a href="https://www.freertos.org/" target="_blank"><img src="https://www.freertos.org/media/2023/logo.png" width="40" height="40"/></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/2560px-Ubuntu-logo-2022.svg.png" width="40" height="40"/></a>
 </p>
 
 
