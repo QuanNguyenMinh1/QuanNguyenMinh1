@@ -26,7 +26,7 @@
 ####  Tools
 <p align="left">
   <a href="https://www.qt.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" height="40"/></a>
-  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank"><img src="https://www.st.com/content/ccc/fragment/product_related/rpn_information/recommended_cards_logos/group0/d2/33/1d/7f/68/26/44/a8/SPL2LL-Converter/files/SPL2LL-Converter.jpg/jcr:content/translations/en.SPL2LL-Converter.jpg" width="40" height="40"/></a>
+  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxUJCu42MIhdQObT_GbHu5vuSKbj9ujP7JyeH-xgirF7F8_x1IU073dLkryR4HdRzTt_w&usqp=CAU" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
   <a href="https://www.altium.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Altium_Designer_Logo.png" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
