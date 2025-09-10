@@ -1,42 +1,63 @@
-## Hi there 👋
-My full name is Nguyen Minh Quan. For short, you can call me "Quan". Besides, I sometimes appear with the nickname "quan329".
-- 🎓 I'm a sophomore at Vietnam National University Ho Chi Minh City, HCMC University of Technology.
-- 🌱 I’m currently studying Electronics and Telecommunication engineering (Programme de Formation d'Ingénieurs d'Excellence au Vietnam (PFIEV)).
-- 😄 I speak English as my second language and I use a little French for searching documents.
-- ⚡ Fun fact: I enjoy most of time in exploring fundamental theories throughout learning electronics.
-<h3 align="left">Academic activities:</h3>
+## 👋 Hi there, I'm Quan (Nguyen Minh Quan)
 
-<br>- Teaching advisor in 2025 Summer Camp on Basic Electronic Circuits and Embedded C for AIoT Applications (PIFKID 2025), organized by Pay It Forward Club in collaboration with Intel Corporation, for high school students.</br>
-<br>- Lecturer and mentor in C25 Microcontroller Basic Course for undergraduates.</br>
-<br>- Teaching assistant and instructor in Basic Electronic Circuits and Embedded C Course for high school students (PIFKID 2024 Summer Camp).</br>
+🎓 Sophomore at **Vietnam National University Ho Chi Minh City – University of Technology (HCMUT)**  
+🌱 Major in **Electronics & Telecommunication Engineering (PFIEV Programme)**  
+😄 Languages: **English (second language)**, basic **French** for research  
+⚡ Passionate about exploring **fundamental theories in electronics**
 
-<h3 align="left">Languages:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.overleaf.com/project" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/e1d6a117e83df943856202d864cb496127e3b9f260563246e893a45ac73c0ccf/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39322f4c615465585f6c6f676f2e737667" alt="Latex" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcmU00AWKefsImjv1gCyu7tAsDnyK2czY_Ug&s" alt="stm32cubeide" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/code.png" alt="vsstudio" width="40" height="40"/> </a><a href="https://www.altium.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/altium_designer.png" alt="altiumdesign" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://matlab.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZXsPzy5sU_RcMY0oJwYCNJ3aR8X0N8spuOsV5aywUlTXKg-z5IoKqCe3eM5aBlEbGBbtI5A0rT5scl_1mjRKoItYmRECJjw2JFfVzGgLNSQ" alt="matlab" width="40" height="40"/> </a> <a href="[https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/orcad.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/OrCAD_Logo.svg/800px-OrCAD_Logo.svg.png" alt="orcad" width="40" height="40"/> </a> <a href="https://e-ra.io/index.html" target="_blank" rel="noreferrer"> <img src="https://app.e-ra.io/static/media/era-logo.a29a4f31179a242b4f3d7e587b0f3949.svg" alt="orcad" width="40" height="40"/> </a> <a href="https://www.freertos.org/" target="_blank" rel="noreferrer"> <img src="https://www.freertos.org/media/2023/logo.png" alt="orcad" width="40" height="40"/> </a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/330px-Ubuntu-logo-2022.svg.png" alt="ubuntu" width="40" height="40"/> </a></p>
+### 📚 Academic Activities
+- **Teaching Advisor** – *PIFKID 2025 Summer Camp*: Basic Electronic Circuits & Embedded C for AIoT (organized by Pay It Forward Club in collaboration with Intel Corporation).  
+- **Lecturer & Mentor** – *C25 Microcontroller Basic Course* for undergraduates.  
+- **Teaching Assistant & Instructor** – *PIFKID 2024 Summer Camp*: Basic Electronic Circuits & Embedded C for high school students.  
 
-<h3 align="left">Workplaces:</h3>
+---
+
+### 🛠️ Languages & Tools
+
+#### Languages
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+  <a href="https://www.overleaf.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" height="40"/></a>
+</p>
+
+#### Tools
+<p align="left">
+  <a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40"/></a>
+  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank"><img src="https://img.icons8.com/color/48/stmicroelectronics.png" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/code.png" width="40" height="40"/></a>
+  <a href="https://www.altium.com/" target="_blank"><img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/altium_designer.png" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
+  <a href="https://matlab.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
+  <a href="https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/orcad.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OrCAD_Logo.svg" width="40" height="40"/></a>
+  <a href="https://e-ra.io/index.html" target="_blank"><img src="https://app.e-ra.io/static/media/era-logo.a29a4f31179a242b4f3d7e587b0f3949.svg" width="40" height="40"/></a>
+  <a href="https://www.freertos.org/" target="_blank"><img src="https://www.freertos.org/media/2023/logo.png" width="40" height="40"/></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ubuntu-logo-2022.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🏫 Workplaces
 <table>
   <tr>
     <td align="center">
-      <a href="https://hcmut.edu.vn/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/bku.ico" alt="HCMUT" width="160" height="160"/>
+      <a href="https://hcmut.edu.vn/" target="_blank">
+        <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/bku.ico" width="120" height="120"/>
       </a>
+      <br/><b>Ho Chi Minh City University of Technology</b>
     </td>
     <td align="center">
-      <a href="https://payitforward.edu.vn" target="_blank" rel="noreferrer">
-        <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/PIF_Leaf.png" alt="PayItForwardClub" width="160" height="160"/>
+      <a href="https://payitforward.edu.vn" target="_blank">
+        <img src="https://github.com/duyfx9/duyfx9/blob/main/Icons/PIF_Leaf.png" width="120" height="120"/>
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Ho Chi Minh City University of Technology</strong>
-    </td>
-    <td align="center">
-      <strong>Pay It Forward Club</strong>
+      <br/><b>Pay It Forward Club</b>
     </td>
   </tr>
 </table>
+
+---
+
+### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuanNguyenMinh1&show_icons=true&theme=tokyonight)
