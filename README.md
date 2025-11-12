@@ -2,7 +2,7 @@
 
 🎓 Third-year student at **Vietnam National University Ho Chi Minh City – University of Technology (HCMUT)**  
 🌱 Major in **Electronics & Telecommunication Engineering (PFIEV Programme)**  
-😄 Languages: **English (second language)**, basic **French** for research  
+😄 Languages: **English (second language)**, basic **French** for research purposes  
 ⚡ Passionate about exploring **fundamental theories in electronics**
 
 ---
