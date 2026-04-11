@@ -20,9 +20,9 @@
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://www.overleaf.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://www.python.org/static/img/python-logo.png" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Assembly" target="_blank"><img src="https://img.icons8.com/color/1200/assembly.jpg" width="40" height="40"/></a>
+  <a href="https://www.overleaf.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" height="40"/></a>
 </p>
 
 ####  Tools
