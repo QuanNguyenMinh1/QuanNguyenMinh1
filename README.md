@@ -21,6 +21,8 @@
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
   <a href="https://www.overleaf.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKs_IWvJ1MdQgp7xGlhntYGX8dUj0UiG5Xow&s" width="40" height="40"/></a>
+  <a href="https://www.overleaf.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" height="40"/></a>
 </p>
 
 ####  Tools
