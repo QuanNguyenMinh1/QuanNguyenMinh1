@@ -24,17 +24,16 @@
   <a href="https://www.latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/></a>
 </p>
 
-#### Tools & Frameworks
-<p align="left">
-  <a href="https://www.qt.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/></a>
-  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stm32/stm32-original.svg" alt="stm32" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-  <a href="https://www.altium.com/" target="_blank"><img src="https://img.icons8.com/color/48/altium-designer.png" alt="altium" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/></a>
-  <a href="https://www.freertos.org/" target="_blank"><img src="https://www.freertos.org/media/2023/logo.png" alt="freertos" width="70" height="30" style="object-fit: contain;"/></a>
-  <a href="https://e-ra.io/" target="_blank"><img src="https://app.e-ra.io/static/media/era-logo.a29a4f31179a242b4f3d7e587b0f3949.svg" alt="era" width="40" height="40"/></a>
-</p>
+### 🛠️ Languages & Tools
+
+
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://www.qt.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/></a><a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stm32/stm32-original.svg" alt="stm32" width="40" height="40"/></a><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a><a href="https://www.altium.com/" target="_blank"><img src="https://img.icons8.com/color/48/altium-designer.png" alt="altium" width="40" height="40"/></a><a href="https://www.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/></a><a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/></a><a href="https://www.freertos.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="freertos" width="40" height="40" style="filter: invert(0.5);"/></a><a href="https://e-ra.io/" target="_blank"><img src="https://app.e-ra.io/static/media/era-logo.a29a4f31179a242b4f3d7e587b0f3949.svg" alt="era" width="40" height="40"/></a><a href="https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/orcad.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OrCAD_Logo.svg" alt="orcad" width="40" height="40"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
