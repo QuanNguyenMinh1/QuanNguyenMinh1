@@ -44,7 +44,4 @@
   </tr>
 </table>
 
----
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuanNguyenMinh1&show_icons=true&theme=tokyonight)
