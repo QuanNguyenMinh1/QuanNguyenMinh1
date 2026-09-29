@@ -27,6 +27,7 @@
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://www.zephyrproject.org/wp-content/uploads/2023/03/Zephyr_color-13.png" alt="FreeRTOS" width="100" height="60"/></a>
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://heise.cloudimg.io/width/1392/q30.png-lossy-30.webp-lossy-30.foil1/_www-heise-de_/imgs/18/3/0/2/1/2/7/9/FreeRTOS_Logo-58f0653492dddec8.jpeg" alt="FreeRTOS" width="120" height="60"/></a>
 </p>
+
 ---
 
 ### 🏫 Workplaces
