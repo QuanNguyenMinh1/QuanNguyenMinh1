@@ -6,20 +6,27 @@
 
 ---
 
-### 🛠️ Languages & Tools
+//### 🛠️ Languages & Tools
 
-#### Languages
+### Languages
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://img.icons8.com/color/48/processor.png" alt="assembly" width="40" height="40"/></a>
 </p>
 
-#### Tools
+### Tools
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://defkey.com/content/images/program/stm32cubemx-2022-02-01_11-19-26-icon-resized.png" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://espressif.gallerycdn.vsassets.io/extensions/espressif/esp-idf-extension/1.9.0/1733825766020/Microsoft.VisualStudio.Services.Icons.Default" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/11/Ubuntu-Emblem.png" alt="python" width="100" height="60"/></a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://heise.cloudimg.io/width/1392/q30.png-lossy-30.webp-lossy-30.foil1/_www-heise-de_/imgs/18/3/0/2/1/2/7/9/FreeRTOS_Logo-58f0653492dddec8.jpeg" alt="FreeRTOS" width="100" height="60"/></a>
+</p>
+
+### OS
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/11/Ubuntu-Emblem.png" alt="python" width="100" height="60"/></a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://www.zephyrproject.org/wp-content/uploads/2023/03/Zephyr_color-13.png" alt="FreeRTOS" width="100" height="60"/></a>
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://heise.cloudimg.io/width/1392/q30.png-lossy-30.webp-lossy-30.foil1/_www-heise-de_/imgs/18/3/0/2/1/2/7/9/FreeRTOS_Logo-58f0653492dddec8.jpeg" alt="FreeRTOS" width="100" height="60"/></a>
 </p>
 ---
