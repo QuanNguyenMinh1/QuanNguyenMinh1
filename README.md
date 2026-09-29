@@ -1,8 +1,7 @@
 ## 👋 Hi there, I'm Quan (Nguyen Minh Quan)
 
-🎓 Third-year student at **Vietnam National University Ho Chi Minh City – University of Technology (HCMUT)**  
+🎓 Fourth-year student at **Vietnam National University Ho Chi Minh City – University of Technology (HCMUT)**  
 🌱 Major in **Electronics & Telecommunication Engineering (PFIEV Programme)**  
-😄 Languages: **English (second language)**, basic **French** for research purposes  
 ⚡ Passionate about exploring **fundamental theories in electronics**
 
 ---
