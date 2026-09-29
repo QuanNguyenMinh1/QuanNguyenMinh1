@@ -6,7 +6,6 @@
 
 ---
 
-//### 🛠️ Languages & Tools
 
 ### Languages
 <p align="left">
@@ -19,6 +18,7 @@
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://defkey.com/content/images/program/stm32cubemx-2022-02-01_11-19-26-icon-resized.png" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://espressif.gallerycdn.vsassets.io/extensions/espressif/esp-idf-extension/1.9.0/1733825766020/Microsoft.VisualStudio.Services.Icons.Default" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src=" https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_55da269609bde6556a387629b0594314/altium-altium-designer.png" alt="cplusplus" width="40" height="40"/></a>
 </p>
 
 ### OS
