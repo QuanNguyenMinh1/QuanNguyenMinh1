@@ -16,9 +16,11 @@
 
 ### Tools
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://defkey.com/content/images/program/stm32cubemx-2022-02-01_11-19-26-icon-resized.png" alt="c" width="60" height="60"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://espressif.gallerycdn.vsassets.io/extensions/espressif/esp-idf-extension/1.9.0/1733825766020/Microsoft.VisualStudio.Services.Icons.Default" alt="cplusplus" width="60" height="60"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://th.bing.com/th/id/R.9d8d1e6cd5a4b56729673504050ff2c0?rik=94JZjKGtZuZ5kg&riu=http%3a%2f%2f5.imimg.com%2fdata5%2fSELLER%2fDefault%2f2023%2f12%2f369981375%2fLG%2fVW%2fAF%2f195873594%2fad-logo-vertical-light-bg-500x500.png&ehk=Or5RL%2fPnbk4uHOGExG3EYE0%2bv17LDJFttKZj4cPy8U4%3d&risl=&pid=ImgRaw&r=0" alt="cplusplus" width="60" height="60"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://defkey.com/content/images/program/stm32cubemx-2022-02-01_11-19-26-icon-resized.png" alt="STM32 CUBE IDE" width="60" height="60"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://espressif.gallerycdn.vsassets.io/extensions/espressif/esp-idf-extension/1.9.0/1733825766020/Microsoft.VisualStudio.Services.Icons.Default" alt="esp-idf" width="60" height="60"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://th.bing.com/th/id/R.9d8d1e6cd5a4b56729673504050ff2c0?rik=94JZjKGtZuZ5kg&riu=http%3a%2f%2f5.imimg.com%2fdata5%2fSELLER%2fDefault%2f2023%2f12%2f369981375%2fLG%2fVW%2fAF%2f195873594%2fad-logo-vertical-light-bg-500x500.png&ehk=Or5RL%2fPnbk4uHOGExG3EYE0%2bv17LDJFttKZj4cPy8U4%3d&risl=&pid=ImgRaw&r=0" alt="Altium Designer" width="60" height="60"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="Docker" width="60" height="60"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://logospng.org/wp-content/uploads/git.png" alt="Git" width="60" height="60"/></a>
 </p>
 
 ### OS
